@@ -20,3 +20,7 @@
 
 # ACTIVITY: Add a new column to the df created above ----
 
+
+
+
+# Can Bailey pull the code from RStudio?
