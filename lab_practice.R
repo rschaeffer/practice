@@ -23,4 +23,5 @@
 
 
 
-# Can Bailey pull the code from RStudio?
+# Can Bailey pull the code from RStudio? 
+Yes! Just select 'Pull with Rebase'
