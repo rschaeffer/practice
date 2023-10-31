@@ -1,4 +1,4 @@
-## Schaeffer Lab Practice
+# Schaeffer Lab Practice
 
 # Prepare workspace ----
 
@@ -13,7 +13,11 @@
   df
 
 # Add column to df
-  df$C <- df$C = c(21:30)
+  df$C <- c(21:30)
 
 # Check to see if it worked
   df
+
+# ACTIVITY: Add a new column to the df created above ----
+
+  
