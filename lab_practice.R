@@ -20,4 +20,3 @@
 
 # ACTIVITY: Add a new column to the df created above ----
 
-  
